@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+|![](https://raw.githubusercontent.com/twenis/twenis/master/Good.jpg)   | Developer <br/> Traveler <br/> Technology Enthusiast <br/>  |
+|:----:|:----:|
+| 🍯 🦪 🌱 | Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. |
+
 <!--
 **twenis/twenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
